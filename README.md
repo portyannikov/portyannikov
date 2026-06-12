@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**portyannikov/portyannikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I a'm Backend Developer actively studying modern technologies with a strong emphasis on practical application and adhering to high-quality coding standards.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs,nestjs,express,postgres,mysql,mongodb,mongoose,docker,git)](https://skillicons.dev)
+
+## 🌱 Currently Learning
+
+- System Design
+- Advanced NestJS
+
+## 📈 GitHub Stats
+
+![Streak](https://streak-stats.demolab.com?user=portyannikov&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/portyannikov/portyannikov/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/portyannikov/portyannikov/output/github-snake.svg" />
+</picture>
